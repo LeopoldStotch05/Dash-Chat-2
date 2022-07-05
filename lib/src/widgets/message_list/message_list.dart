@@ -68,6 +68,7 @@ class _MessageListState extends State<MessageList> {
                     physics: widget.messageListOptions.scrollPhysics,
                     controller: scrollController,
                     reverse: true,
+                    shrinkWrap: true,
                     itemCount: widget.messages.length,
                     itemBuilder: (BuildContext context, int i) {
                       final ChatMessage? previousMessage = i < widget.messages.length - 1 ? widget.messages[i + 1] : null;

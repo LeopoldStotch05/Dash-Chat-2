@@ -18,6 +18,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/molteo-40978.appspot.com/o/Screenshot1.png?alt=media&token=b77546dc-8fea-4aab-ac1b-3de5a2a90654" width="200"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/molteo-40978.appspot.com/o/Screenshot2.png?alt=media&token=2bf2ac8e-cb6e-44e7-876d-8c6a7959819e" width="200"/>
+</p>
+
 <h1></h1>
 
 ## Features
@@ -129,6 +134,7 @@ If you have any suggestions for including a feature or if something doesn't work
 <table>
   <tr>
     <td align="center"><a href="https://github.com/SebastienBtr"><img src="https://avatars.githubusercontent.com/u/18089010?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SebastienBtr</b></sub></a><br /><a href="https://github.com/molteo-engineering-team/Dash-Chat-2/commits?author=SebastienBtr" title="Code">💻</a> <a href="#design-SebastienBtr" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/chuusungmin"><img src="https://avatars.githubusercontent.com/u/17997403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>chuusungmin</b></sub></a><br /><a href="https://github.com/molteo-engineering-team/Dash-Chat-2/commits?author=chuusungmin" title="Code">💻</a></td>
   </tr>
 </table>
 
